@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ankur
-- 👀 I’m interested in lates test automation tools
+- 👋 Hi, I’m Ankur working as SR. SDET 
+- 👀 I’m interested in latest test automation tools
 - 🌱 I’m currently learning Web Backend Technologies 
 - 💞️ I’m looking to collaborate on Freelance Test Projects
 - 📫 How to reach me mail to speektoankur@gmail.com
