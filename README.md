@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Ankur working as SR. SDET 
-- 👀 I’m interested in latest test automation tools
-- 🌱 I’m currently learning Web Backend Technologies 
-- 💞️ I’m looking to collaborate on Freelance Test Projects
-- 📫 How to reach me mail to speektoankur@gmail.com
+<img width="420" alt="Screenshot 2023-08-06 at 4 25 10 PM" src="https://github.com/speektoankur/speektoankur/assets/101249539/d0f14dde-9e60-4515-8c5f-3165e1f65f3b">
 
-<!---
-speektoankur/speektoankur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+***
+
+- 👋 Hi there, nice to meet you.
+- 👀 This is my GitHub trying to add some projects for my learning.
+
+
+
